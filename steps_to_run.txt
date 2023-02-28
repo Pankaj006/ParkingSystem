@@ -1,0 +1,11 @@
+#Steps
+
+1. Create a virtual enviroment
+2. open terminal
+3. go to the path which has parking_management (cd parking_management)
+4. type the command => python manage.py migrate
+5. type the command => python manage.py -r runserver
+6. type the command => python manage.py runserver
+
+It will provide a link  http://127.0.0.1:8000/ to open front end
+After loading the page, First sign up and continue
